@@ -4,7 +4,7 @@ This project loads a Keras/TensorFlow model (.h5) and performs deepfake detectio
 
 # Project Brief — Deepfake Detection on Video
 
-This project focuses on building an automated system that detects deepfake content in video streams using deep learning–based computer vision techniques. Deepfakes—synthetic media generated using advanced neural networks (GANs, autoencoders)—pose major risks to digital trust, misinformation, privacy, and security. The aim of this system is to accurately classify video frames as real or fake by analyzing facial regions and identifying manipulation artifacts.
+This project focuses on building an automated system that detects deepfake content in video streams using deep learning–based computer vision techniques. Deepfakes—synthetic media generated using advanced neural networks (CNNs)—pose major risks to digital trust, misinformation, privacy, and security. The aim of this system is to accurately classify video frames as real or fake by analyzing facial regions and identifying manipulation artifacts.
 
 # Objective
 
